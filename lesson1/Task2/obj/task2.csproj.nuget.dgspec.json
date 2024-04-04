@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\1-CSHARP\\01-CSHARP\\lesson1\\task2\\task2.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\1-CSHARP\\01-CSHARP\\lesson1\\Task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\1-CSHARP\\01-CSHARP\\lesson1\\task2\\task2.csproj": {
+    "C:\\Users\\Dell\\Desktop\\1-CSHARP\\01-CSHARP\\lesson1\\Task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\1-CSHARP\\01-CSHARP\\lesson1\\task2\\task2.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\1-CSHARP\\01-CSHARP\\lesson1\\Task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\1-CSHARP\\01-CSHARP\\lesson1\\task2\\task2.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\1-CSHARP\\01-CSHARP\\lesson1\\Task2\\task2.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\1-CSHARP\\01-CSHARP\\lesson1\\task2\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\1-CSHARP\\01-CSHARP\\lesson1\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
