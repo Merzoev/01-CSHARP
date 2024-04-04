@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\bin\Debug\net8.0\homework.exe
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\bin\Debug\net8.0\homework.deps.json
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\bin\Debug\net8.0\homework.runtimeconfig.json
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\bin\Debug\net8.0\homework.dll
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\bin\Debug\net8.0\homework.pdb
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\obj\Debug\net8.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\obj\Debug\net8.0\homework.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\obj\Debug\net8.0\homework.AssemblyInfo.cs
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\obj\Debug\net8.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\obj\Debug\net8.0\homework.sourcelink.json
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\obj\Debug\net8.0\homework.dll
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\obj\Debug\net8.0\refint\homework.dll
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\obj\Debug\net8.0\homework.pdb
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\obj\Debug\net8.0\homework.genruntimeconfig.cache
+C:\Users\Dell\Desktop\1-CSHARP\01-CSHARP\lesson1\homework\obj\Debug\net8.0\ref\homework.dll
