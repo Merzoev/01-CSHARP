@@ -18,27 +18,36 @@
 
 // arr = {1,2,3,4,5}
 
-Console.WriteLine("ВВедите размер массива");
+// Console.WriteLine("ВВедите размер массива");
 
+// int n = Convert.ToInt32(Console.ReadLine());
+// int i = 0;
+
+// int[] numbers = new int [n];
+// while (i < n)
+// {
+//     Console.WriteLine($"ВВедите {i} число массива");
+//     numbers [i] = Convert.ToInt32(Console.ReadLine());
+    
+//     i = i + 1;
+// }
+
+// int i1 =0;
+
+// while (i1 < n)
+// {
+//     Console.Write($"{numbers [i1] } " );
+//     i1 = i1 + 1;
+
+// }
+
+Console.WriteLine("ВВедите число N");
 int n = Convert.ToInt32(Console.ReadLine());
+int[] numbers = new int[n];
 int i = 0;
-
-int[] numbers = new int [n];
 while (i < n)
 {
-    Console.WriteLine($"ВВедите {i} число массива");
-    numbers [i] = Convert.ToInt32(Console.ReadLine());
-    
-    i = i + 1;
+    numbers[i] = i+1;
+    Console.Write($"{numbers [i] } " );
+    i = i+1;
 }
-
-int i1 =0;
-
-while (i1 < n)
-{
-    Console.Write($"{numbers [i1] } " );
-    i1 = i1 + 1;
-
-}
-
-
