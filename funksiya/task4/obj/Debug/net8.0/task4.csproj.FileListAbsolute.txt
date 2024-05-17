@@ -1,0 +1,15 @@
+C:\04-04-2014 urok\funksiya\task4\obj\Debug\net8.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\04-04-2014 urok\funksiya\task4\obj\Debug\net8.0\task4.AssemblyInfoInputs.cache
+C:\04-04-2014 urok\funksiya\task4\obj\Debug\net8.0\task4.AssemblyInfo.cs
+C:\04-04-2014 urok\funksiya\task4\obj\Debug\net8.0\task4.csproj.CoreCompileInputs.cache
+C:\04-04-2014 urok\funksiya\task4\obj\Debug\net8.0\task4.sourcelink.json
+C:\04-04-2014 urok\funksiya\task4\bin\Debug\net8.0\task4.exe
+C:\04-04-2014 urok\funksiya\task4\bin\Debug\net8.0\task4.deps.json
+C:\04-04-2014 urok\funksiya\task4\bin\Debug\net8.0\task4.runtimeconfig.json
+C:\04-04-2014 urok\funksiya\task4\bin\Debug\net8.0\task4.dll
+C:\04-04-2014 urok\funksiya\task4\bin\Debug\net8.0\task4.pdb
+C:\04-04-2014 urok\funksiya\task4\obj\Debug\net8.0\task4.dll
+C:\04-04-2014 urok\funksiya\task4\obj\Debug\net8.0\refint\task4.dll
+C:\04-04-2014 urok\funksiya\task4\obj\Debug\net8.0\task4.pdb
+C:\04-04-2014 urok\funksiya\task4\obj\Debug\net8.0\task4.genruntimeconfig.cache
+C:\04-04-2014 urok\funksiya\task4\obj\Debug\net8.0\ref\task4.dll
