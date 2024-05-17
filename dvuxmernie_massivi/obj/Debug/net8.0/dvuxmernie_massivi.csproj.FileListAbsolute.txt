@@ -1,0 +1,14 @@
+C:\04-04-2014 urok\dvuxmernie_massivi\bin\Debug\net8.0\dvuxmernie_massivi.exe
+C:\04-04-2014 urok\dvuxmernie_massivi\bin\Debug\net8.0\dvuxmernie_massivi.deps.json
+C:\04-04-2014 urok\dvuxmernie_massivi\bin\Debug\net8.0\dvuxmernie_massivi.runtimeconfig.json
+C:\04-04-2014 urok\dvuxmernie_massivi\bin\Debug\net8.0\dvuxmernie_massivi.dll
+C:\04-04-2014 urok\dvuxmernie_massivi\bin\Debug\net8.0\dvuxmernie_massivi.pdb
+C:\04-04-2014 urok\dvuxmernie_massivi\obj\Debug\net8.0\dvuxmernie_massivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\04-04-2014 urok\dvuxmernie_massivi\obj\Debug\net8.0\dvuxmernie_massivi.AssemblyInfoInputs.cache
+C:\04-04-2014 urok\dvuxmernie_massivi\obj\Debug\net8.0\dvuxmernie_massivi.AssemblyInfo.cs
+C:\04-04-2014 urok\dvuxmernie_massivi\obj\Debug\net8.0\dvuxmernie_massivi.csproj.CoreCompileInputs.cache
+C:\04-04-2014 urok\dvuxmernie_massivi\obj\Debug\net8.0\dvuxmernie_massivi.dll
+C:\04-04-2014 urok\dvuxmernie_massivi\obj\Debug\net8.0\refint\dvuxmernie_massivi.dll
+C:\04-04-2014 urok\dvuxmernie_massivi\obj\Debug\net8.0\dvuxmernie_massivi.pdb
+C:\04-04-2014 urok\dvuxmernie_massivi\obj\Debug\net8.0\dvuxmernie_massivi.genruntimeconfig.cache
+C:\04-04-2014 urok\dvuxmernie_massivi\obj\Debug\net8.0\ref\dvuxmernie_massivi.dll
