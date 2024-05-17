@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dvmas_task2/1.0.0": {
+        "runtime": {
+          "dvmas_task2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dvmas_task2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\04-04-2014 urok\dvmas_task2\obj\Debug\net8.0\dvmas_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\04-04-2014 urok\dvmas_task2\obj\Debug\net8.0\dvmas_task2.AssemblyInfoInputs.cache
+C:\04-04-2014 urok\dvmas_task2\obj\Debug\net8.0\dvmas_task2.AssemblyInfo.cs
+C:\04-04-2014 urok\dvmas_task2\obj\Debug\net8.0\dvmas_task2.csproj.CoreCompileInputs.cache
+C:\04-04-2014 urok\dvmas_task2\bin\Debug\net8.0\dvmas_task2.exe
+C:\04-04-2014 urok\dvmas_task2\bin\Debug\net8.0\dvmas_task2.deps.json
+C:\04-04-2014 urok\dvmas_task2\bin\Debug\net8.0\dvmas_task2.runtimeconfig.json
+C:\04-04-2014 urok\dvmas_task2\bin\Debug\net8.0\dvmas_task2.dll
+C:\04-04-2014 urok\dvmas_task2\bin\Debug\net8.0\dvmas_task2.pdb
+C:\04-04-2014 urok\dvmas_task2\obj\Debug\net8.0\dvmas_task2.dll
+C:\04-04-2014 urok\dvmas_task2\obj\Debug\net8.0\refint\dvmas_task2.dll
+C:\04-04-2014 urok\dvmas_task2\obj\Debug\net8.0\dvmas_task2.pdb
+C:\04-04-2014 urok\dvmas_task2\obj\Debug\net8.0\dvmas_task2.genruntimeconfig.cache
+C:\04-04-2014 urok\dvmas_task2\obj\Debug\net8.0\ref\dvmas_task2.dll
