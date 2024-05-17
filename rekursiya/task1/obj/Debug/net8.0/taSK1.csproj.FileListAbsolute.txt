@@ -1,0 +1,14 @@
+C:\04-04-2014 urok\rekursiya\taSK1\bin\Debug\net8.0\taSK1.exe
+C:\04-04-2014 urok\rekursiya\taSK1\bin\Debug\net8.0\taSK1.deps.json
+C:\04-04-2014 urok\rekursiya\taSK1\bin\Debug\net8.0\taSK1.runtimeconfig.json
+C:\04-04-2014 urok\rekursiya\taSK1\bin\Debug\net8.0\taSK1.dll
+C:\04-04-2014 urok\rekursiya\taSK1\bin\Debug\net8.0\taSK1.pdb
+C:\04-04-2014 urok\rekursiya\taSK1\obj\Debug\net8.0\taSK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\04-04-2014 urok\rekursiya\taSK1\obj\Debug\net8.0\taSK1.AssemblyInfoInputs.cache
+C:\04-04-2014 urok\rekursiya\taSK1\obj\Debug\net8.0\taSK1.AssemblyInfo.cs
+C:\04-04-2014 urok\rekursiya\taSK1\obj\Debug\net8.0\taSK1.csproj.CoreCompileInputs.cache
+C:\04-04-2014 urok\rekursiya\taSK1\obj\Debug\net8.0\taSK1.dll
+C:\04-04-2014 urok\rekursiya\taSK1\obj\Debug\net8.0\refint\taSK1.dll
+C:\04-04-2014 urok\rekursiya\taSK1\obj\Debug\net8.0\taSK1.pdb
+C:\04-04-2014 urok\rekursiya\taSK1\obj\Debug\net8.0\taSK1.genruntimeconfig.cache
+C:\04-04-2014 urok\rekursiya\taSK1\obj\Debug\net8.0\ref\taSK1.dll

@@ -1,0 +1,14 @@
+C:\04-04-2014 urok\cemile\obj\Debug\net8.0\cemile.GeneratedMSBuildEditorConfig.editorconfig
+C:\04-04-2014 urok\cemile\obj\Debug\net8.0\cemile.AssemblyInfoInputs.cache
+C:\04-04-2014 urok\cemile\obj\Debug\net8.0\cemile.AssemblyInfo.cs
+C:\04-04-2014 urok\cemile\obj\Debug\net8.0\cemile.csproj.CoreCompileInputs.cache
+C:\04-04-2014 urok\cemile\bin\Debug\net8.0\cemile.exe
+C:\04-04-2014 urok\cemile\bin\Debug\net8.0\cemile.deps.json
+C:\04-04-2014 urok\cemile\bin\Debug\net8.0\cemile.runtimeconfig.json
+C:\04-04-2014 urok\cemile\bin\Debug\net8.0\cemile.dll
+C:\04-04-2014 urok\cemile\bin\Debug\net8.0\cemile.pdb
+C:\04-04-2014 urok\cemile\obj\Debug\net8.0\cemile.dll
+C:\04-04-2014 urok\cemile\obj\Debug\net8.0\refint\cemile.dll
+C:\04-04-2014 urok\cemile\obj\Debug\net8.0\cemile.pdb
+C:\04-04-2014 urok\cemile\obj\Debug\net8.0\cemile.genruntimeconfig.cache
+C:\04-04-2014 urok\cemile\obj\Debug\net8.0\ref\cemile.dll
