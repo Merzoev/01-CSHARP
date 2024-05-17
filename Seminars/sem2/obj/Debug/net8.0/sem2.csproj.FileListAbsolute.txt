@@ -1,0 +1,14 @@
+C:\04-04-2014 urok\Seminars\sem2\obj\Debug\net8.0\sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\04-04-2014 urok\Seminars\sem2\obj\Debug\net8.0\sem2.AssemblyInfoInputs.cache
+C:\04-04-2014 urok\Seminars\sem2\obj\Debug\net8.0\sem2.AssemblyInfo.cs
+C:\04-04-2014 urok\Seminars\sem2\obj\Debug\net8.0\sem2.csproj.CoreCompileInputs.cache
+C:\04-04-2014 urok\Seminars\sem2\bin\Debug\net8.0\sem2.exe
+C:\04-04-2014 urok\Seminars\sem2\bin\Debug\net8.0\sem2.deps.json
+C:\04-04-2014 urok\Seminars\sem2\bin\Debug\net8.0\sem2.runtimeconfig.json
+C:\04-04-2014 urok\Seminars\sem2\bin\Debug\net8.0\sem2.dll
+C:\04-04-2014 urok\Seminars\sem2\bin\Debug\net8.0\sem2.pdb
+C:\04-04-2014 urok\Seminars\sem2\obj\Debug\net8.0\sem2.dll
+C:\04-04-2014 urok\Seminars\sem2\obj\Debug\net8.0\refint\sem2.dll
+C:\04-04-2014 urok\Seminars\sem2\obj\Debug\net8.0\sem2.pdb
+C:\04-04-2014 urok\Seminars\sem2\obj\Debug\net8.0\sem2.genruntimeconfig.cache
+C:\04-04-2014 urok\Seminars\sem2\obj\Debug\net8.0\ref\sem2.dll

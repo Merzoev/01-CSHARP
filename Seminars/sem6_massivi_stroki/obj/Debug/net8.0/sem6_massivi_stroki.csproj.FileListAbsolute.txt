@@ -1,0 +1,14 @@
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\bin\Debug\net8.0\sem6_massivi_stroki.exe
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\bin\Debug\net8.0\sem6_massivi_stroki.deps.json
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\bin\Debug\net8.0\sem6_massivi_stroki.runtimeconfig.json
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\bin\Debug\net8.0\sem6_massivi_stroki.dll
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\bin\Debug\net8.0\sem6_massivi_stroki.pdb
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\obj\Debug\net8.0\sem6_massivi_stroki.GeneratedMSBuildEditorConfig.editorconfig
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\obj\Debug\net8.0\sem6_massivi_stroki.AssemblyInfoInputs.cache
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\obj\Debug\net8.0\sem6_massivi_stroki.AssemblyInfo.cs
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\obj\Debug\net8.0\sem6_massivi_stroki.csproj.CoreCompileInputs.cache
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\obj\Debug\net8.0\sem6_massivi_stroki.dll
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\obj\Debug\net8.0\refint\sem6_massivi_stroki.dll
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\obj\Debug\net8.0\sem6_massivi_stroki.pdb
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\obj\Debug\net8.0\sem6_massivi_stroki.genruntimeconfig.cache
+C:\04-04-2014 urok\Seminars\sem6_massivi_stroki\obj\Debug\net8.0\ref\sem6_massivi_stroki.dll

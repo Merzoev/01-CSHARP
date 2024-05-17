@@ -1,0 +1,14 @@
+C:\04-04-2014 urok\Seminars\Sem1\bin\Debug\net8.0\Sem1.exe
+C:\04-04-2014 urok\Seminars\Sem1\bin\Debug\net8.0\Sem1.deps.json
+C:\04-04-2014 urok\Seminars\Sem1\bin\Debug\net8.0\Sem1.runtimeconfig.json
+C:\04-04-2014 urok\Seminars\Sem1\bin\Debug\net8.0\Sem1.dll
+C:\04-04-2014 urok\Seminars\Sem1\bin\Debug\net8.0\Sem1.pdb
+C:\04-04-2014 urok\Seminars\Sem1\obj\Debug\net8.0\Sem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\04-04-2014 urok\Seminars\Sem1\obj\Debug\net8.0\Sem1.AssemblyInfoInputs.cache
+C:\04-04-2014 urok\Seminars\Sem1\obj\Debug\net8.0\Sem1.AssemblyInfo.cs
+C:\04-04-2014 urok\Seminars\Sem1\obj\Debug\net8.0\Sem1.csproj.CoreCompileInputs.cache
+C:\04-04-2014 urok\Seminars\Sem1\obj\Debug\net8.0\Sem1.dll
+C:\04-04-2014 urok\Seminars\Sem1\obj\Debug\net8.0\refint\Sem1.dll
+C:\04-04-2014 urok\Seminars\Sem1\obj\Debug\net8.0\Sem1.pdb
+C:\04-04-2014 urok\Seminars\Sem1\obj\Debug\net8.0\Sem1.genruntimeconfig.cache
+C:\04-04-2014 urok\Seminars\Sem1\obj\Debug\net8.0\ref\Sem1.dll

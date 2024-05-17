@@ -1,0 +1,14 @@
+C:\04-04-2014 urok\seminars\sem5_dmassiv\bin\Debug\net8.0\sem5_dmassiv.exe
+C:\04-04-2014 urok\seminars\sem5_dmassiv\bin\Debug\net8.0\sem5_dmassiv.deps.json
+C:\04-04-2014 urok\seminars\sem5_dmassiv\bin\Debug\net8.0\sem5_dmassiv.runtimeconfig.json
+C:\04-04-2014 urok\seminars\sem5_dmassiv\bin\Debug\net8.0\sem5_dmassiv.dll
+C:\04-04-2014 urok\seminars\sem5_dmassiv\bin\Debug\net8.0\sem5_dmassiv.pdb
+C:\04-04-2014 urok\seminars\sem5_dmassiv\obj\Debug\net8.0\sem5_dmassiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\04-04-2014 urok\seminars\sem5_dmassiv\obj\Debug\net8.0\sem5_dmassiv.AssemblyInfoInputs.cache
+C:\04-04-2014 urok\seminars\sem5_dmassiv\obj\Debug\net8.0\sem5_dmassiv.AssemblyInfo.cs
+C:\04-04-2014 urok\seminars\sem5_dmassiv\obj\Debug\net8.0\sem5_dmassiv.csproj.CoreCompileInputs.cache
+C:\04-04-2014 urok\seminars\sem5_dmassiv\obj\Debug\net8.0\sem5_dmassiv.dll
+C:\04-04-2014 urok\seminars\sem5_dmassiv\obj\Debug\net8.0\refint\sem5_dmassiv.dll
+C:\04-04-2014 urok\seminars\sem5_dmassiv\obj\Debug\net8.0\sem5_dmassiv.pdb
+C:\04-04-2014 urok\seminars\sem5_dmassiv\obj\Debug\net8.0\sem5_dmassiv.genruntimeconfig.cache
+C:\04-04-2014 urok\seminars\sem5_dmassiv\obj\Debug\net8.0\ref\sem5_dmassiv.dll
