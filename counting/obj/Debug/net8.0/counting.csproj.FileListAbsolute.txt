@@ -1,0 +1,14 @@
+C:\04-04-2014 urok\counting\obj\Debug\net8.0\counting.GeneratedMSBuildEditorConfig.editorconfig
+C:\04-04-2014 urok\counting\obj\Debug\net8.0\counting.AssemblyInfoInputs.cache
+C:\04-04-2014 urok\counting\obj\Debug\net8.0\counting.AssemblyInfo.cs
+C:\04-04-2014 urok\counting\obj\Debug\net8.0\counting.csproj.CoreCompileInputs.cache
+C:\04-04-2014 urok\counting\bin\Debug\net8.0\counting.exe
+C:\04-04-2014 urok\counting\bin\Debug\net8.0\counting.deps.json
+C:\04-04-2014 urok\counting\bin\Debug\net8.0\counting.runtimeconfig.json
+C:\04-04-2014 urok\counting\bin\Debug\net8.0\counting.dll
+C:\04-04-2014 urok\counting\bin\Debug\net8.0\counting.pdb
+C:\04-04-2014 urok\counting\obj\Debug\net8.0\counting.dll
+C:\04-04-2014 urok\counting\obj\Debug\net8.0\refint\counting.dll
+C:\04-04-2014 urok\counting\obj\Debug\net8.0\counting.pdb
+C:\04-04-2014 urok\counting\obj\Debug\net8.0\counting.genruntimeconfig.cache
+C:\04-04-2014 urok\counting\obj\Debug\net8.0\ref\counting.dll
